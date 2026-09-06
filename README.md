@@ -7,9 +7,10 @@ Spring Boot. A lot of what I know about keeping systems simple comes from years
 in Go, and my current side project is in Node.js. Comparing how the three solve
 the same problems is where most of my writing comes from.
 
-**Currently building** [gatehouse](https://github.com/marcogerstmann/gatehouse),
-an MCP gateway that puts OAuth 2.1, per-tool permissions and an audit trail
-between an LLM assistant and my own data.
+**Currently building** [portionium](https://github.com/marcogerstmann/portionium),
+a self-hosted food and weight journal that replaces calorie counting with a three-colour
+energy-density scale. Node.js backend with idempotent writes, strict per-user isolation 
+and backups that are restored in CI on every push.
 
 **Recent writing**
 
