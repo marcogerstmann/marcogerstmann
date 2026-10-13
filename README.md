@@ -4,13 +4,8 @@ is event-driven.
 
 I have been doing this professionally since 2014. Most of my day is Java and
 Spring Boot. A lot of what I know about keeping systems simple comes from years
-in Go, and my current side project is in Node.js. Comparing how the three solve
-the same problems is where most of my writing comes from.
-
-**Currently building** [portionium](https://github.com/marcogerstmann/portionium),
-a self-hosted food and weight journal that replaces calorie counting with a three-colour
-energy-density scale. Node.js backend with idempotent writes, strict per-user isolation 
-and backups that are restored in CI on every push.
+in Go, and some Node.js. Comparing how the three solve the same problems is where
+most of my writing comes from.
 
 **Recent writing**
 
